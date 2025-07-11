@@ -58,12 +58,19 @@
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enoque12&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Contatos:
+## 📫 Contatos:
 <div>
-  <a href="https://www.facebook.com/Enoque Mandlate" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Facebook-9146FF?style=for-the-badge&logo=facebbok&logoColor=white" target="_blank"></a>
-  <a href = "mailto:contato@enoquemandlate17"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/Enoque Mandlate" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.facebook.com/enoque.mandlate" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+  </a>
+  <a href="mailto:contato@enoquemandlate17@gmail.com" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/enoquemandlate" target="_blank">
+    <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>   
 </div>
+
 <!--
 **Enoque12/Enoque12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
