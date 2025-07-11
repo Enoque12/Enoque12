@@ -63,13 +63,13 @@
   <a href="https://www.facebook.com/otallfinokelas.finokelas" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
-  <a href="mailto:contato@enoquemandlate17@gmail.com" target="_blank">
-  <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
   <a href="https://www.linkedin.com/in/enoque-mandlate-designer-programador" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>   
 </div>
+
+[📧 contato@enoquemandlate17@gmail.com](mailto:contato@enoquemandlate17@gmail.com)
+
 
 <!--
 **Enoque12/Enoque12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
