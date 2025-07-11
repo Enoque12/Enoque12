@@ -60,7 +60,7 @@
 
 ## 📫 Contatos:
 <div>
-  <a href="https://www.facebook.com/enoque.mandlate" target="_blank">
+  <a href="https://www.facebook.com/otallfinokelas.finokelas" target="_blank">
     <img loading="lazy" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
   </a>
   <a href="mailto:contato@enoquemandlate17@gmail.com" target="_blank">
