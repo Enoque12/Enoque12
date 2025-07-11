@@ -68,7 +68,7 @@
   </a>   
 </div>
 
-[📧 contato@enoquemandlate17@gmail.com](mailto:contato@enoquemandlate17@gmail.com)
+📧enoquemandlate17@gmail.com
 
 
 <!--
